@@ -1,0 +1,3 @@
+C:/Users/PTRUJILLO/Desktop/Trujillo/TrujilloLucena-vercel-APP/sfml-hello/build/CMakeFiles/sfml_hello.dir
+C:/Users/PTRUJILLO/Desktop/Trujillo/TrujilloLucena-vercel-APP/sfml-hello/build/CMakeFiles/edit_cache.dir
+C:/Users/PTRUJILLO/Desktop/Trujillo/TrujilloLucena-vercel-APP/sfml-hello/build/CMakeFiles/rebuild_cache.dir
