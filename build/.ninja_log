@@ -1,0 +1,7 @@
+# ninja log v7
+15	1800	7798171786473797	CMakeFiles/sfml_hello.dir/src/main.cpp.obj	208c3621809e43cc
+1812	13079	7798171804445001	sfml_hello.exe	7336cea915c02b45
+3	177	7798173826789051	build.ninja	632cccbed3f03617
+3	177	7798173826789051	C:/Users/PTRUJILLO/Desktop/Trujillo/TrujilloLucena-vercel-APP/sfml-hello/build/cmake_install.cmake	632cccbed3f03617
+27	1834	7798173827414381	CMakeFiles/sfml_hello.dir/src/main.cpp.obj	208c3621809e43cc
+1835	12672	7798173845537613	sfml_hello.exe	7336cea915c02b45
