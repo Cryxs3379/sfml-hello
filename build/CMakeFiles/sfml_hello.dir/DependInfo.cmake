@@ -8,7 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "C:/Users/PTRUJILLO/Desktop/Trujillo/TrujilloLucena-vercel-APP/sfml-hello/src/game/Game.cpp" "CMakeFiles/sfml_hello.dir/src/game/Game.cpp.obj" "gcc" "CMakeFiles/sfml_hello.dir/src/game/Game.cpp.obj.d"
   "C:/Users/PTRUJILLO/Desktop/Trujillo/TrujilloLucena-vercel-APP/sfml-hello/src/main.cpp" "CMakeFiles/sfml_hello.dir/src/main.cpp.obj" "gcc" "CMakeFiles/sfml_hello.dir/src/main.cpp.obj.d"
+  "C:/Users/PTRUJILLO/Desktop/Trujillo/TrujilloLucena-vercel-APP/sfml-hello/src/system/DLLManager.cpp" "CMakeFiles/sfml_hello.dir/src/system/DLLManager.cpp.obj" "gcc" "CMakeFiles/sfml_hello.dir/src/system/DLLManager.cpp.obj.d"
+  "C:/Users/PTRUJILLO/Desktop/Trujillo/TrujilloLucena-vercel-APP/sfml-hello/src/utils/Input.cpp" "CMakeFiles/sfml_hello.dir/src/utils/Input.cpp.obj" "gcc" "CMakeFiles/sfml_hello.dir/src/utils/Input.cpp.obj.d"
+  "C:/Users/PTRUJILLO/Desktop/Trujillo/TrujilloLucena-vercel-APP/sfml-hello/src/utils/Math.cpp" "CMakeFiles/sfml_hello.dir/src/utils/Math.cpp.obj" "gcc" "CMakeFiles/sfml_hello.dir/src/utils/Math.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

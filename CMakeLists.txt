@@ -41,7 +41,16 @@ find_package(SFML 2.5 REQUIRED COMPONENTS graphics window system)
 
 # Creamos un ejecutable llamado "sfml_hello" usando el archivo src/main.cpp
 # Un ejecutable es el archivo .exe que podrás ejecutar
-add_executable(sfml_hello src/main.cpp)
+# Archivos fuente
+set(SOURCES
+    src/main.cpp
+    src/system/DLLManager.cpp
+    src/game/Game.cpp
+    src/utils/Input.cpp
+    src/utils/Math.cpp
+)
+
+add_executable(sfml_hello ${SOURCES})
 
 # ========================================
 # ENLACE DE LIBRERÍAS

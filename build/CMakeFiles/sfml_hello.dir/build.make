@@ -85,14 +85,78 @@ CMakeFiles/sfml_hello.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sfml_hello.dir/src/main.cpp.s"
 	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\src\main.cpp -o CMakeFiles\sfml_hello.dir\src\main.cpp.s
 
+CMakeFiles/sfml_hello.dir/src/system/DLLManager.cpp.obj: CMakeFiles/sfml_hello.dir/flags.make
+CMakeFiles/sfml_hello.dir/src/system/DLLManager.cpp.obj: C:/Users/PTRUJILLO/Desktop/Trujillo/TrujilloLucena-vercel-APP/sfml-hello/src/system/DLLManager.cpp
+CMakeFiles/sfml_hello.dir/src/system/DLLManager.cpp.obj: CMakeFiles/sfml_hello.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/sfml_hello.dir/src/system/DLLManager.cpp.obj"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sfml_hello.dir/src/system/DLLManager.cpp.obj -MF CMakeFiles\sfml_hello.dir\src\system\DLLManager.cpp.obj.d -o CMakeFiles\sfml_hello.dir\src\system\DLLManager.cpp.obj -c C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\src\system\DLLManager.cpp
+
+CMakeFiles/sfml_hello.dir/src/system/DLLManager.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sfml_hello.dir/src/system/DLLManager.cpp.i"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\src\system\DLLManager.cpp > CMakeFiles\sfml_hello.dir\src\system\DLLManager.cpp.i
+
+CMakeFiles/sfml_hello.dir/src/system/DLLManager.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sfml_hello.dir/src/system/DLLManager.cpp.s"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\src\system\DLLManager.cpp -o CMakeFiles\sfml_hello.dir\src\system\DLLManager.cpp.s
+
+CMakeFiles/sfml_hello.dir/src/game/Game.cpp.obj: CMakeFiles/sfml_hello.dir/flags.make
+CMakeFiles/sfml_hello.dir/src/game/Game.cpp.obj: C:/Users/PTRUJILLO/Desktop/Trujillo/TrujilloLucena-vercel-APP/sfml-hello/src/game/Game.cpp
+CMakeFiles/sfml_hello.dir/src/game/Game.cpp.obj: CMakeFiles/sfml_hello.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/sfml_hello.dir/src/game/Game.cpp.obj"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sfml_hello.dir/src/game/Game.cpp.obj -MF CMakeFiles\sfml_hello.dir\src\game\Game.cpp.obj.d -o CMakeFiles\sfml_hello.dir\src\game\Game.cpp.obj -c C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\src\game\Game.cpp
+
+CMakeFiles/sfml_hello.dir/src/game/Game.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sfml_hello.dir/src/game/Game.cpp.i"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\src\game\Game.cpp > CMakeFiles\sfml_hello.dir\src\game\Game.cpp.i
+
+CMakeFiles/sfml_hello.dir/src/game/Game.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sfml_hello.dir/src/game/Game.cpp.s"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\src\game\Game.cpp -o CMakeFiles\sfml_hello.dir\src\game\Game.cpp.s
+
+CMakeFiles/sfml_hello.dir/src/utils/Input.cpp.obj: CMakeFiles/sfml_hello.dir/flags.make
+CMakeFiles/sfml_hello.dir/src/utils/Input.cpp.obj: C:/Users/PTRUJILLO/Desktop/Trujillo/TrujilloLucena-vercel-APP/sfml-hello/src/utils/Input.cpp
+CMakeFiles/sfml_hello.dir/src/utils/Input.cpp.obj: CMakeFiles/sfml_hello.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/sfml_hello.dir/src/utils/Input.cpp.obj"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sfml_hello.dir/src/utils/Input.cpp.obj -MF CMakeFiles\sfml_hello.dir\src\utils\Input.cpp.obj.d -o CMakeFiles\sfml_hello.dir\src\utils\Input.cpp.obj -c C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\src\utils\Input.cpp
+
+CMakeFiles/sfml_hello.dir/src/utils/Input.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sfml_hello.dir/src/utils/Input.cpp.i"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\src\utils\Input.cpp > CMakeFiles\sfml_hello.dir\src\utils\Input.cpp.i
+
+CMakeFiles/sfml_hello.dir/src/utils/Input.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sfml_hello.dir/src/utils/Input.cpp.s"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\src\utils\Input.cpp -o CMakeFiles\sfml_hello.dir\src\utils\Input.cpp.s
+
+CMakeFiles/sfml_hello.dir/src/utils/Math.cpp.obj: CMakeFiles/sfml_hello.dir/flags.make
+CMakeFiles/sfml_hello.dir/src/utils/Math.cpp.obj: C:/Users/PTRUJILLO/Desktop/Trujillo/TrujilloLucena-vercel-APP/sfml-hello/src/utils/Math.cpp
+CMakeFiles/sfml_hello.dir/src/utils/Math.cpp.obj: CMakeFiles/sfml_hello.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/sfml_hello.dir/src/utils/Math.cpp.obj"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sfml_hello.dir/src/utils/Math.cpp.obj -MF CMakeFiles\sfml_hello.dir\src\utils\Math.cpp.obj.d -o CMakeFiles\sfml_hello.dir\src\utils\Math.cpp.obj -c C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\src\utils\Math.cpp
+
+CMakeFiles/sfml_hello.dir/src/utils/Math.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sfml_hello.dir/src/utils/Math.cpp.i"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\src\utils\Math.cpp > CMakeFiles\sfml_hello.dir\src\utils\Math.cpp.i
+
+CMakeFiles/sfml_hello.dir/src/utils/Math.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sfml_hello.dir/src/utils/Math.cpp.s"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\src\utils\Math.cpp -o CMakeFiles\sfml_hello.dir\src\utils\Math.cpp.s
+
 # Object files for target sfml_hello
 sfml_hello_OBJECTS = \
-"CMakeFiles/sfml_hello.dir/src/main.cpp.obj"
+"CMakeFiles/sfml_hello.dir/src/main.cpp.obj" \
+"CMakeFiles/sfml_hello.dir/src/system/DLLManager.cpp.obj" \
+"CMakeFiles/sfml_hello.dir/src/game/Game.cpp.obj" \
+"CMakeFiles/sfml_hello.dir/src/utils/Input.cpp.obj" \
+"CMakeFiles/sfml_hello.dir/src/utils/Math.cpp.obj"
 
 # External object files for target sfml_hello
 sfml_hello_EXTERNAL_OBJECTS =
 
 sfml_hello.exe: CMakeFiles/sfml_hello.dir/src/main.cpp.obj
+sfml_hello.exe: CMakeFiles/sfml_hello.dir/src/system/DLLManager.cpp.obj
+sfml_hello.exe: CMakeFiles/sfml_hello.dir/src/game/Game.cpp.obj
+sfml_hello.exe: CMakeFiles/sfml_hello.dir/src/utils/Input.cpp.obj
+sfml_hello.exe: CMakeFiles/sfml_hello.dir/src/utils/Math.cpp.obj
 sfml_hello.exe: CMakeFiles/sfml_hello.dir/build.make
 sfml_hello.exe: C:/msys64/ucrt64/lib/libsfml-graphics.dll.a
 sfml_hello.exe: C:/msys64/ucrt64/lib/libsfml-window.dll.a
@@ -100,7 +164,7 @@ sfml_hello.exe: C:/msys64/ucrt64/lib/libsfml-system.dll.a
 sfml_hello.exe: CMakeFiles/sfml_hello.dir/linkLibs.rsp
 sfml_hello.exe: CMakeFiles/sfml_hello.dir/objects1.rsp
 sfml_hello.exe: CMakeFiles/sfml_hello.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable sfml_hello.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable sfml_hello.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\sfml_hello.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

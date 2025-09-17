@@ -128,6 +128,30 @@ sfml_hello/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\sfml_hello.dir\build.make CMakeFiles/sfml_hello.dir/build
 .PHONY : sfml_hello/fast
 
+src/game/Game.obj: src/game/Game.cpp.obj
+.PHONY : src/game/Game.obj
+
+# target to build an object file
+src/game/Game.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\sfml_hello.dir\build.make CMakeFiles/sfml_hello.dir/src/game/Game.cpp.obj
+.PHONY : src/game/Game.cpp.obj
+
+src/game/Game.i: src/game/Game.cpp.i
+.PHONY : src/game/Game.i
+
+# target to preprocess a source file
+src/game/Game.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\sfml_hello.dir\build.make CMakeFiles/sfml_hello.dir/src/game/Game.cpp.i
+.PHONY : src/game/Game.cpp.i
+
+src/game/Game.s: src/game/Game.cpp.s
+.PHONY : src/game/Game.s
+
+# target to generate assembly for a file
+src/game/Game.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\sfml_hello.dir\build.make CMakeFiles/sfml_hello.dir/src/game/Game.cpp.s
+.PHONY : src/game/Game.cpp.s
+
 src/main.obj: src/main.cpp.obj
 .PHONY : src/main.obj
 
@@ -152,6 +176,78 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\sfml_hello.dir\build.make CMakeFiles/sfml_hello.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/system/DLLManager.obj: src/system/DLLManager.cpp.obj
+.PHONY : src/system/DLLManager.obj
+
+# target to build an object file
+src/system/DLLManager.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\sfml_hello.dir\build.make CMakeFiles/sfml_hello.dir/src/system/DLLManager.cpp.obj
+.PHONY : src/system/DLLManager.cpp.obj
+
+src/system/DLLManager.i: src/system/DLLManager.cpp.i
+.PHONY : src/system/DLLManager.i
+
+# target to preprocess a source file
+src/system/DLLManager.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\sfml_hello.dir\build.make CMakeFiles/sfml_hello.dir/src/system/DLLManager.cpp.i
+.PHONY : src/system/DLLManager.cpp.i
+
+src/system/DLLManager.s: src/system/DLLManager.cpp.s
+.PHONY : src/system/DLLManager.s
+
+# target to generate assembly for a file
+src/system/DLLManager.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\sfml_hello.dir\build.make CMakeFiles/sfml_hello.dir/src/system/DLLManager.cpp.s
+.PHONY : src/system/DLLManager.cpp.s
+
+src/utils/Input.obj: src/utils/Input.cpp.obj
+.PHONY : src/utils/Input.obj
+
+# target to build an object file
+src/utils/Input.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\sfml_hello.dir\build.make CMakeFiles/sfml_hello.dir/src/utils/Input.cpp.obj
+.PHONY : src/utils/Input.cpp.obj
+
+src/utils/Input.i: src/utils/Input.cpp.i
+.PHONY : src/utils/Input.i
+
+# target to preprocess a source file
+src/utils/Input.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\sfml_hello.dir\build.make CMakeFiles/sfml_hello.dir/src/utils/Input.cpp.i
+.PHONY : src/utils/Input.cpp.i
+
+src/utils/Input.s: src/utils/Input.cpp.s
+.PHONY : src/utils/Input.s
+
+# target to generate assembly for a file
+src/utils/Input.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\sfml_hello.dir\build.make CMakeFiles/sfml_hello.dir/src/utils/Input.cpp.s
+.PHONY : src/utils/Input.cpp.s
+
+src/utils/Math.obj: src/utils/Math.cpp.obj
+.PHONY : src/utils/Math.obj
+
+# target to build an object file
+src/utils/Math.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\sfml_hello.dir\build.make CMakeFiles/sfml_hello.dir/src/utils/Math.cpp.obj
+.PHONY : src/utils/Math.cpp.obj
+
+src/utils/Math.i: src/utils/Math.cpp.i
+.PHONY : src/utils/Math.i
+
+# target to preprocess a source file
+src/utils/Math.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\sfml_hello.dir\build.make CMakeFiles/sfml_hello.dir/src/utils/Math.cpp.i
+.PHONY : src/utils/Math.cpp.i
+
+src/utils/Math.s: src/utils/Math.cpp.s
+.PHONY : src/utils/Math.s
+
+# target to generate assembly for a file
+src/utils/Math.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\sfml_hello.dir\build.make CMakeFiles/sfml_hello.dir/src/utils/Math.cpp.s
+.PHONY : src/utils/Math.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -161,9 +257,21 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... sfml_hello
+	@echo ... src/game/Game.obj
+	@echo ... src/game/Game.i
+	@echo ... src/game/Game.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s
+	@echo ... src/system/DLLManager.obj
+	@echo ... src/system/DLLManager.i
+	@echo ... src/system/DLLManager.s
+	@echo ... src/utils/Input.obj
+	@echo ... src/utils/Input.i
+	@echo ... src/utils/Input.s
+	@echo ... src/utils/Math.obj
+	@echo ... src/utils/Math.i
+	@echo ... src/utils/Math.s
 .PHONY : help
 
 

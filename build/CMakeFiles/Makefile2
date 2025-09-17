@@ -84,12 +84,12 @@ clean: CMakeFiles/sfml_hello.dir/clean
 CMakeFiles/sfml_hello.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\sfml_hello.dir\build.make CMakeFiles/sfml_hello.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\sfml_hello.dir\build.make CMakeFiles/sfml_hello.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\build\CMakeFiles --progress-num=1,2 "Built target sfml_hello"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\build\CMakeFiles --progress-num=1,2,3,4,5,6 "Built target sfml_hello"
 .PHONY : CMakeFiles/sfml_hello.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/sfml_hello.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\build\CMakeFiles 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/sfml_hello.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\build\CMakeFiles 0
 .PHONY : CMakeFiles/sfml_hello.dir/rule
@@ -101,7 +101,7 @@ sfml_hello: CMakeFiles/sfml_hello.dir/rule
 # codegen rule for target.
 CMakeFiles/sfml_hello.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\sfml_hello.dir\build.make CMakeFiles/sfml_hello.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\build\CMakeFiles --progress-num=1,2 "Finished codegen for target sfml_hello"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\PTRUJILLO\Desktop\Trujillo\TrujilloLucena-vercel-APP\sfml-hello\build\CMakeFiles --progress-num=1,2,3,4,5,6 "Finished codegen for target sfml_hello"
 .PHONY : CMakeFiles/sfml_hello.dir/codegen
 
 # clean rule for target.
